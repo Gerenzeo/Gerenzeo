@@ -4,7 +4,7 @@
 <h3 align="left">🛠 Social:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
 
