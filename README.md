@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<h3 align="left">🛠 Social:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
 <!--
 **Gerenzeo/Gerenzeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
